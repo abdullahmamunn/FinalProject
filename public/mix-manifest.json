@@ -1,0 +1,11 @@
+{
+    "/js/settings.js": "/js/settings.js",
+    "/js/market-list.js": "/js/market-list.js",
+    "/js/balance-credit-list.js": "/js/balance-credit-list.js",
+    "/js/user/manage-role.js": "/js/user/manage-role.js",
+    "/css/master.css": "/css/master.css",
+    "/js/user/manage-user.js": "/js/user/manage-user.js",
+    "/js/manage-member.js": "/js/manage-member.js",
+    "/js/meal-dashboard.js": "/js/meal-dashboard.js",
+    "/js/meal-list.js": "/js/meal-list.js"
+}
